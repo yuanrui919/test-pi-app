@@ -14,9 +14,9 @@
         $url = 'https://api.minepi.com/v2/payments/'.$_POST['paymentId'].'/complete';
         $data = array('txid' => $_POST['txid']);
     }
-    
+
     $apps = array();
-    $apps['auth_app1'] = 'bua8qit4usmdozlarz5ghqwify4z2wojkbbjjnxfdguwlzmfcnmudobxa8ev67si';
+    $apps['auth_example'] = 'key bua8qit4usmdozlarz5ghqwify4z2wojkbbjjnxfdguwlzmfcnmudobxa8ev67si';
     $apps['auth_app2'] = 'Key <your Server API Key>';
     $apps['auth_app3'] = 'Key <your Server API Key>';
     $apps['auth_app4'] = 'Key <your Server API Key>';
