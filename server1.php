@@ -16,7 +16,7 @@
     }
     
     $apps = array();
-    $apps['auth_app1'] = 'Key bua8qit4usmdozlarz5ghqwify4z2wojkbbjjnxfdguwlzmfcnmudobxa8ev67si';
+    $apps['auth_app1'] = 'bua8qit4usmdozlarz5ghqwify4z2wojkbbjjnxfdguwlzmfcnmudobxa8ev67si';
     $apps['auth_app2'] = 'Key <your Server API Key>';
     $apps['auth_app3'] = 'Key <your Server API Key>';
     $apps['auth_app4'] = 'Key <your Server API Key>';
